@@ -111,7 +111,7 @@ export default function Footer() {
               bs
             </span>
             <span className="font-mark text-[0.78rem] italic" style={{ color: "rgba(244,236,224,0.8)" }}>
-              built by bysemaj.com
+              built bysemaj.com
             </span>
           </a>
         </div>
